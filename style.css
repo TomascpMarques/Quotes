@@ -27,7 +27,7 @@ h1 {
 .grid-contain {
     display: grid;
     grid-gap: 1.2em;
-    margin-bottom: 2rem;
+    margin-bottom: 2em;
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
 }
 
