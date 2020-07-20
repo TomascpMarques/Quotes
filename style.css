@@ -91,7 +91,7 @@ h1 {
 
 @keyframes slideInFromBellow {
     0% {
-        transform: translatey(100vh);
+        transform: translatey(150vh);
     }
     100% {
         transform: translatey(0vh);
