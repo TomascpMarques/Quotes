@@ -55,16 +55,6 @@ h1 {
     margin-left: 2rem;
 }
 
-.quote span:before {
-    content: '';
-    position: absolute;
-    height: 1px;
-    width: 10px;
-    border-bottom: 1px solid black;
-    top: 10px;
-    left: -15px;
-}
-
 .quote:nth-child(1) {
     animation: 2s ease-in-out 0s 1 slideInFromBellow;
 }
