@@ -1,2 +1,2 @@
 # Quotes
-Teste da CSS Grid
+Test of CSS Grid functionality.
