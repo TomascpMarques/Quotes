@@ -71,13 +71,14 @@ h1 {
     animation: 3.5s ease-in-out 0s 1 slideInFromBellow;
 }
 
-.quote span:after {
+.quote span:before {
     content: '';
     position: absolute;
     height: 1px;
     width: 10px;
     border-bottom: 1px solid black;
     top: 10px;
+    left: -15px;
 }
 
 @keyframes slideInFromBellow {
